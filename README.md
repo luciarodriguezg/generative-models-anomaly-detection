@@ -2,7 +2,7 @@
 
 This repository contains the code developed for the Master’s Thesis in Artificial Intelligence at UNIR (Universidad Internacional de La Rioja), titled **"Reconstrucción de imágenes astronómicas con CBiGAN y DDPM orientadas a la detección de anomalías"**.
 
-![CBiGAN best results](results\cbigan_sinaug_best10.png)
+![cbigan_sinaug_best10](results/cbigan_sinaug_best10.png)
 
 The project studies the use of **generative models**—specifically **CBiGAN (Consistency Bidirectional Generative Adversarial Networks)** and **DDPM (Denoising Diffusion Probabilistic Models)**—for **unsupervised anomaly detection in galaxy images**. Using datasets such as the COSMOS Galaxy Set, the work focuses on how well these models can reconstruct astronomical images and highlight deviations from normal behaviour that may correspond to anomalous objects.
 
